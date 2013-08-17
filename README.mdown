@@ -1,0 +1,7 @@
+# Pub/Sub
+
+This is a basic [pub/sub system](http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern).  It includes tests to ensure everything works according to the pattern.
+
+To run the tests, use this command in the root project directory:
+
+    $ rspec
